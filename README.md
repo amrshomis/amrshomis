@@ -4,12 +4,13 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>  
 
-# 👋 مرحباً! أنا **عمرو شميس**  
+# 👋  **عمرو شميس** | Amr Shomis
 🎓 خريج **علوم حاسوب وتقنية معلومات**  
 💡 شغوف بالبرمجة، تطوير البرمجيات، الذكاء الاصطناعي، والويب.  
 🚀 هدفي: صناعة حلول برمجية إبداعية وتعلم تقنيات جديدة باستمرار.  
 
 ---
+**🌐 تطوير تطبيقات الويب (Web Development)**  | **🤖 الذكاء الاصطناعي** **(Artificial Intelligence)** | **📊 تنقيب البيانات** **(Data Mining)** | **🛠 تصميم وتحليل النظم (Systems Analysis & Design)****
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amroshomis&style=flat&color=orange&label=PROFILE+VIEWS)  
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/yourusername)  
@@ -49,7 +50,7 @@ class AmroShomis {
     "OtherTools" : { "Git", "VSCode", "Figma", "Photoshop" }
   };
 }
-```
+
 
 ---
 
