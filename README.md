@@ -38,7 +38,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
+```dart
 // Organized overview of my tools
 class AmroShomis {
   const mySkills = {
@@ -51,7 +51,7 @@ class AmroShomis {
   };
 }
 
-
+```
 ---
 
 ## 📊 الإحصائيات
