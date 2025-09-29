@@ -39,7 +39,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```dart
-// Organized overview of my tools
 class AmroShomis {
   const mySkills = {
     "ProgrammingLanguages" : { "C", "C++", "Java", "Python", "JavaScript", "PHP" },
@@ -54,14 +53,8 @@ class AmroShomis {
 ```
 ---
 
-## 📊 الإحصائيات
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=amroshomis&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amroshomis&layout=compact&theme=radical" width="48%" />
-
-</div>
+##📊 إحصائيات GitHub
+<div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=amrshomis&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrshomis&layout=compact&theme=tokyonight" width="45%"/> </div>
 
 ---
 
