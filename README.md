@@ -38,7 +38,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```dart
+--
 class AmroShomis {
   const mySkills = {
     "ProgrammingLanguages" : { "C", "C++", "Java", "Python", "JavaScript", "PHP" },
@@ -50,7 +50,7 @@ class AmroShomis {
   };
 }
 
-```
+
 ---
 
 ##📊 إحصائيات GitHub
