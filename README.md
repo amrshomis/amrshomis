@@ -1,13 +1,13 @@
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<div align="center">
 
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>  
 
-# 👋 مرحبًا، أنا عمرو شميس  
-🎓 خريج **علوم الحاسوب وتقنية المعلومات**  
-💻 مطور ومهتم بتقنيات **البرمجة – تطوير الويب – الذكاء الاصطناعي – قواعد البيانات**  
+# 👋 مرحباً! أنا **عمرو شميس**  
+🎓 خريج **علوم حاسوب وتقنية معلومات**  
+💡 شغوف بالبرمجة، تطوير البرمجيات، الذكاء الاصطناعي، والويب.  
+🚀 هدفي: صناعة حلول برمجية إبداعية وتعلم تقنيات جديدة باستمرار.  
 
 ---
 
@@ -16,10 +16,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:yourmail@gmail.com)  
 
+</div>
 
 ---
 
-## 🚀 الأدوات والتقنيات التي أستخدمها
+## 🛠️ الأدوات والمهارات
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -37,38 +38,44 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "Languages" : { "C", "C++", "Java", "Python", "JavaScript", "PHP" },
-    "Web" : { "HTML", "CSS" },
-    "Database" : { "MySQL", "SQLite" },
+// Organized overview of my tools
+class AmroShomis {
+  const mySkills = {
+    "ProgrammingLanguages" : { "C", "C++", "Java", "Python", "JavaScript", "PHP" },
+    "Web" : { "HTML", "CSS", "JavaScript" },
+    "Database" : { "SQL", "SQLite","MySQL" },
     "Editors" : { "VS Code", "Sublime", "Neovim" },
     "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma" }
+    "OtherTools" : { "Git", "VSCode", "Figma", "Photoshop" }
   };
 }
+```
 
-----
-📌 لمحة عني
+---
 
-🌱 أتعلم وأطور نفسي في ذكاء اصطناعي + تطوير تطبيقات ويب + وعلوم البيانات
-
-🔭 أعمل على مشاريع مفتوحة المصدر ومشاريع شخصية للتجربة والتعلم
-
-🎯 هدفي أن أصبح مطور برمجيات محترف وأساهم في بناء حلول تقنية عملية
-
-
------
-📊 إحصائيات GitHub
-<div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=amrshomis&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrshomis&layout=compact&theme=tokyonight" width="45%"/> </div>
-
-
------
+## 📊 الإحصائيات
 
 <div align="center">
   
-💡 *"البرمجة ليست مجرد كود، إنها أسلوب تفكير."*  
+<img src="https://github-readme-stats.vercel.app/api?username=amroshomis&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amroshomis&layout=compact&theme=radical" width="48%" />
+
+</div>
+
+---
+
+## 🎯 عني
+- 🌱 أتعلم حالياً: **علوم البيانات + تطوير تطبيقات ويب + الذكاء الاصطناعي**  
+- 🔭 أعمل على مشاريع شخصية وجامعية وأحب مشاركتها على GitHub  
+- 💬 اسألني عن: **الحاسوب، بناء الأنظمة، الأفلام، الألعاب**.  
+- ⚡أطمح للمساهمة في مشاريع مفتوحة المصدر. 
+
+---
+
+<div align="center">
+
+💡 *"البرمجة ليست مجرد كتابة أكواد، إنها طريقة للتفكير وصناعة المستقبل."*  
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="15%" />
 
 </div>
